@@ -1,0 +1,338 @@
+hello
+clear
+cd
+cd ..
+printf hi
+printf hi\n
+pinfo
+pinfo 43841
+gedit &
+pinfo 43964
+pinfo 43964
+jobs
+gedit &
+jobs
+jobs
+jobs -r
+jobs -s
+hello ji echo
+hello ji
+echo
+echo hello..ho ` ji
+mmkkm
+knf
+mkdir
+mkdir hi
+cd hi
+cd~
+cd ~
+piping
+hello | hi
+repeat 2 echo hi
+repeat 3 cd ..
+history
+history 3
+history 30
+clear
+exit
+echo "hello" > output.txt
+output.txt
+cat output.txt
+clear
+jobs
+sleep 20 &
+jobs
+jobs -r
+jobs
+echo hello > output.txt
+cat output.txt
+clear
+cat output.txt
+clear
+cat output.txt
+echo hello > output.txt
+cat output.txt
+cat < example.txt
+echo hello > new.txt
+clear
+bash generate.sh 
+cd testing
+echo hello > output.txt
+cat < example.txt 
+echo hello > new.txt 
+sort file1.txt > lines_sorted.txt 
+diff file1.txt file2.txt > output.txt 
+more example.txt | wc
+clear
+more example.txt | wc
+grep "int" example.txt | cat file1.txt | wc
+clear
+yes sir
+
+
+
+
+clear
+gedit &
+jobs
+sleep 100 &
+cd ..
+jobs
+sig 2 19
+jobs
+jobs -s
+kill -19
+kill -19 126811
+jobs
+bg 2
+sleep 10 &
+kill -19 126970
+sleep 20 &
+jobs
+kill -19 127012
+jobs
+bg 2
+fg 1
+sleep 10
+
+jobs
+sleep 10
+
+ls
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+clear
+
+
+
+
+
+
+
+ls
+echo hi
+echo hello
+cat output.txt
+echo durga >> output.txt
+cat output.txt
+echo anan > output.txt
+cat output.txt
+echo durga >> output.txt
+
+
+echo durga >> output.txt
+cat output.txt
+ls -l
+jobs
+gedit &
+jobs
+sleep 10 &
+jobs
+kill 128665
+fg 1
+sleep 20 &
+fg 1
+
+sleep 20 &
+fg 1
+bg 1
+
+vim
+vim &
+bg 2
+fg 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+echo hi 
+sleep 20
+
+
+
+
+cat hi.txt
+
+
+
+
+
+
+
+
+
+
+
+
+eror
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+clear
